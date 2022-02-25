@@ -10,3 +10,4 @@
 - they must start with a letter or underscore. Not numbers
 - No special characters. 
 - ``` $this ``` is not usable.
+- MERGED TO MASTER 
