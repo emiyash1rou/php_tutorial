@@ -1,4 +1,5 @@
 # PHP Tutorial
+<h2> PART 1 </h2>
 ## Basic PHP Syntax - PHP 8 Tutorial
 - General Rule: If you are embedding html code into your php then ?> tag is necessary but if the php is only php alone then ?> is not necessary.
 - PHP always need SEMICOLON.
@@ -11,3 +12,9 @@
 - No special characters. 
 - ``` $this ``` is not usable.
 - MERGED TO MASTER 
+# GITHUB
+- To push from a branch to master. 
+- ``` git checkout [branch]
+- Use ``` git push php_tutorial HEAD:master // git push [remotebranch] HEAD/['name of your branch'] :master ```
+- ``` git checkout master ```
+- ``` git pull ``` to get changes from repository to your local branch. 
